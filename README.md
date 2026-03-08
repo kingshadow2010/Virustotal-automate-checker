@@ -35,3 +35,15 @@ i love you  guys
 
 
 don't distribute this as your name. i can't sue u but pls don't 😭😭
+
+
+# How to compile
+
+Just watch an youtube video.
+and make sure to install requests package by typing this command in cmd
+
+pip install requests
+
+doesn't work?
+use this
+python -m pip install requests
